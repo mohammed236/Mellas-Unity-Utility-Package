@@ -1,0 +1,19 @@
+{
+  "name": "com.unity.MellasDev.Utils",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "displayName": "Mellas Utils",
+  "description": "A set of Classes and assest that am reusing in my dev journey",
+  "keywords": [
+    "List",
+    "Operations on list",
+    "algorithms",
+    "Unity Utility",
+    "Mellas"
+  ],
+"repository": {
+    "url": "https://github.com/mohammed236/Mellas-Unity-Utility-Package.git",
+    "type": "git",
+    "revision": "b3b046e53246f77efe7f07a721a3b68b2d7b50f2"
+  }
+}
