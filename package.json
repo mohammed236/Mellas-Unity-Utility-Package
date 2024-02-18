@@ -1,9 +1,14 @@
 {
-  "name": "com.unity.MellasDev.Utils",
+  "name": "com.mellasdev.utils",
   "version": "0.1.0",
   "unity": "2022.3",
   "displayName": "Mellas Utils",
   "description": "A set of Classes and assest that am reusing in my dev journey",
+  "author": {
+    "name": "Mohammed Mellas",
+    "email": "devmellas@gmail.com",
+    "url":"https://www.youtube.com/channel/UCqUKLHkWNG0j4WbqGu4k3Dg"
+  },
   "keywords": [
     "List",
     "Operations on list",
